@@ -1,4 +1,4 @@
-print ("I will now count my chickens:")
+print ("I will now count my chickens: ")
 
 print ("Hens", 25 + 30 / 6)
 print ("Roosters", 100 - 25 * 3 % 4)
@@ -20,4 +20,4 @@ print ("How about some more.")
 
 print ("Is it greater?", 5 > -2)
 print ("Is it greater or equal?", 5 >= -2)
-print ("Is it less or equal?", 5 <= -2)
+print ("Is it less or equal?", 5 <= -2)  
