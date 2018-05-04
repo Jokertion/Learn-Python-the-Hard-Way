@@ -1,6 +1,6 @@
-#从sys模组中引入exit即 退出功能
+#从sys模组中引入exit 退出功能
 from sts import exit 
-#从random模组中引入randint即 产生随机整型数
+#从random模组中引入randint 产生随机整数
 from random import randint
 
 class Scene(object):
