@@ -18,7 +18,7 @@ for fruit in fruits:
 for i in change:
 	print ("I got %r" %i)
 	
-#创建空列表	
+#创建空的列表	
 elements = []
 
 #以range限定for循环的范围，range()本身是个list，直接用list替代也有一样的效果如[1,2,3,4]等
